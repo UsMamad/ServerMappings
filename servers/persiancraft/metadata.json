@@ -1,13 +1,13 @@
 {
-    "id": "persiancraft",
-    "name": "PersianCraft",
+    "id": "FalconCraft",
+    "name": "FalconCraft",
     "addresses": [ 
-        "persiancraft.top",
-        "persiancraftmc.ir"
+        "falconcraft.ir",
+        "falconcraftmc.ir"
     ],
     "primaryAddress": [
-        "play.persiancraft.top",
-        "play.persiancraftmc.ir"
+        "play.falconcraft.ir",
+        "play.falconcraftmc.ir"
     ],
     "primaryColor": "#f96205",
     "secondaryColor": "#000000",
@@ -24,7 +24,10 @@
         "AS"
     ],
     "gameTypes": [
+        "Survival"
+        "Skyblock"
         "Roleplay"
+        "SkyMine"
     ],
     "socials": {
         "discord": "https://discord.gg/FDUJRyeWEN"
